@@ -31,5 +31,5 @@ npm install
 ```
 ### Running on development server
 
-and run your project using the `npm run dev` command.Navigate to http://localhost:5173/. The app will automatically reload if you change any of the source files.
+Run your project using the `npm run dev` command.Navigate to http://localhost:5173/. The app will automatically reload if you change any of the source files.
 
