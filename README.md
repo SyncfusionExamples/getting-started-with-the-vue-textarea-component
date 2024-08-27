@@ -21,7 +21,7 @@ To do that, open the command prompt and run the below commands one after the oth
 git clone https://github.com/SyncfusionExamples/getting-started-with-the-vue-textarea-component/ textarea
 cd textarea
 ```
-
+### Installation
 Now, simply install all the necessary vue packages into your current project using the `npm install` command.
 
 To do that, run the below command.
